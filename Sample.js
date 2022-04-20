@@ -3,7 +3,7 @@ const puppeteer=require('puppeteer');
 let config ={
 
 	launchOptions:{
-		headless:true,
+		headless:false,
 	}
 } 
 
