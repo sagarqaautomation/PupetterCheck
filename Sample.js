@@ -9,7 +9,7 @@ let config ={
 
 //Page Locaters
 const login={
-	email:'input[id="username"]',
+	email:'input[id="userna"]',
 	password:'input[id="password"]'
 		}
 
